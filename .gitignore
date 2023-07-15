@@ -1,0 +1,5 @@
+# Libreoffice lock files
+.~lock*
+# vim swap files
+*.swp
+*.swo
